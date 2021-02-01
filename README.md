@@ -1,0 +1,1 @@
+# apj-linear-equal-resolver
